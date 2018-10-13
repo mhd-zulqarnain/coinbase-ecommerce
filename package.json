@@ -1,0 +1,19 @@
+{
+  "name": "coinbase-node",
+  "version": "1.0.0",
+  "description": "coin base api node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "coinbase": "^2.0.8",
+    "coinbase-commerce-node": "^1.0.0",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "https": "^1.0.0"
+  }
+}
